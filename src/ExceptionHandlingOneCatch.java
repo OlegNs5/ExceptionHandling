@@ -1,7 +1,7 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class ExceptionHandling {
+public class ExceptionHandlingOneCatch {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Scrie un input de la tastatura!");
