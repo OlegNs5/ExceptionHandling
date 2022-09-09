@@ -1,7 +1,7 @@
 public class ThrowException {
 public static void doSomething(Integer a){
     System.out.println("Do something here with " + a + " !");
-    if (a > 5){
+    if (a > 4){
         throw new IllegalArgumentException("a este mai mare decit 5! ");
     }
 
