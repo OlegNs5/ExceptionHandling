@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="273061a5-78fc-40b5-84a8-a611ea49185a" name="Changes" comment="PersonNonStatitInitializare catchurile non statice">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionHandling.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionExercise.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2E3lqPmGoo40ANAb7mNn8Jcpxip" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "extract.method.default.visibility": "private",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ExceptionExercise">
+    <configuration name="ExceptionExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionExercise" />
+      <module name="ExceptionHandling" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandling" />
+      <module name="ExceptionHandling" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Person" />
+      <module name="ExceptionHandling" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonNonStatitInitializare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PersonNonStatitInitializare" />
+      <module name="ExceptionHandling" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TryWithResources" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TryWithResources" />
+      <module name="ExceptionHandling" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExceptionExercise" />
+        <item itemvalue="Application.PersonNonStatitInitializare" />
+        <item itemvalue="Application.Person" />
+        <item itemvalue="Application.TryWithResources" />
+        <item itemvalue="Application.ExceptionHandling" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="273061a5-78fc-40b5-84a8-a611ea49185a" name="Changes" comment="" />
+      <created>1661832344970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661832344970</updated>
+    </task>
+    <task id="LOCAL-00001" summary="exceptii cu try catch scanner.next line">
+      <created>1661916971131</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661916971131</updated>
+    </task>
+    <task id="LOCAL-00002" summary="exceptii multiple cu try catch">
+      <created>1661923373636</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661923373636</updated>
+    </task>
+    <task id="LOCAL-00003" summary="exceptii multiple cu ExceptionHandlingMultipleExceptionsOneCatch">
+      <created>1662007237641</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662007237641</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Aruncarea exceptiilor de catre progamator(doar trebuie tratate)">
+      <created>1662011369471</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662011369471</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Throwable exception">
+      <created>1662691466711</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662691466711</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Cheking exception\\Uncheking">
+      <created>1663554625455</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663554625455</updated>
+    </task>
+    <task id="LOCAL-00007" summary="PersonNonStatitInitializare catchurile non statice">
+      <created>1663747672334</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663747672334</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="exceptii cu try catch scanner.next line" />
+    <MESSAGE value="exceptii multiple cu try catch" />
+    <MESSAGE value="exceptii multiple cu ExceptionHandlingMultipleExceptionsOneCatch" />
+    <MESSAGE value="Aruncarea exceptiilor de catre progamator(doar trebuie tratate)" />
+    <MESSAGE value="Throwable exception" />
+    <MESSAGE value="Cheking exception\\Uncheking" />
+    <MESSAGE value="PersonNonStatitInitializare catchurile non statice" />
+    <option name="LAST_COMMIT_MESSAGE" value="PersonNonStatitInitializare catchurile non statice" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ExceptionHandling$ExceptionHandling.ic" NAME="ExceptionHandling Coverage Results" MODIFIED="1661834413457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
